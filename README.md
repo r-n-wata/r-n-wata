@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <h1 align="center">Hi 👋, I'm Ruth</h1>
 <h3 align="center">A passionate frontend developer in Mexico</h3>
 
-- 👨‍💻 All of my projects are available at [rwata.netlify.app](rwata.netlify.app)
+- 👨‍💻 All of my projects are available at [rwata.netlify.app](https://rwata.netlify.app)
 
 - 📫 How to reach me **rnwata97@gmail.com**
 

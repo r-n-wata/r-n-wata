@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  -->
  
  
- <h1 align="center" height='25%' width='100%' border='1px solid red'>Hi 👋, I'm Ruth</h1>
+ <h1 align="center" height='25%' width='100%' border='1px solid red' background-color='blue'>Hi 👋, I'm Ruth</h1>
 <h3 align="center">A passionate frontend developer in Mexico</h3>
 
 - 👨‍💻 All of my projects are available at [rwata.netlify.app](https://rwata.netlify.app)

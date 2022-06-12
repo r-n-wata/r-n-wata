@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
- 
- 
+
+-->
+
  <h1 align="center">Hi 👋, I'm Ruth</h1>
 <h3 align="center">A passionate frontend developer in Mexico</h3>
 
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/ruth-nlandu-wata-717843237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruth-nlandu-wata-717843237" height="30" width="40" /></a>
 </p>
 
-
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2">
@@ -40,7 +39,9 @@ Here are some ideas to get you started:
       <h3 align="center">Manea Bailo</h3>
         <br />
         <a target="_blank" href="https://maneabailo.com/">
-            <img src="https://drive.google.com/drive/folders/1xINHhKf2KLftxE0hsLgRcWuOvj9iLMJs" width="100%" alt="Travel App"/>
+
+            <img src="/Manea.gif" width="100%" alt="Travel App"/>
+
         </a>
         <br />
         <p align="center">
@@ -52,10 +53,12 @@ Here are some ideas to get you started:
         <p><strong>Javascript, CSS, JS</strong> - Lnading page for a band</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rick & Morty</h3>
+
+      <h3 align="center">SoulCuisine</h3>
         <br />
       <a target="_blank" href="https://soulfulcuisine.netlify.app/">
-            <img src="https://drive.google.com/drive/folders/1xINHhKf2KLftxE0hsLgRcWuOvj9iLMJs" width="100%"  alt="Rigley 2"/>
+            <img src="soulfulCuisine.gif" width="100%"  alt="Rigley 2"/>
+
         </a>
         <br />
         <p align="center">
@@ -73,7 +76,9 @@ Here are some ideas to get you started:
       <h3 align="center">rwata.netlify.app</h3>
       <br />
         <a target="_blank" href="https://rwata.netlify.app/">
-          <img src="" width="100%" alt="Portfolio"/>
+
+          <img src="portfolio.gif" width="100%" alt="Portfolio"/>
+
         </a>
       <br />
         <p align="center">
@@ -84,10 +89,24 @@ Here are some ideas to get you started:
         <p><strong>HTML5, CSS3, & Javascript</strong> - My Portfolio, including links to projects</p>
     </td>
   </tr>
+
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Rick & Morty</h3>
+      <br />
+        <a target="_blank" href="https://mortyndrick.netlify.app/">
+          <img src="https://photos.google.com/search/_tra_/photo/AF1QipOt0jS4AlnczEmLOSONgChr9kQmwspmUw463_SQ" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/r-n-wata/Rick-Morty" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - My Portfolio, including links to projects</p>
+    </td>
+  </tr>
 </table>
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>

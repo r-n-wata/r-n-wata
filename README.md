@@ -57,7 +57,8 @@ Here are some ideas to get you started:
       <h3 align="center">SoulCuisine</h3>
         <br />
       <a target="_blank" href="https://soulfulcuisine.netlify.app/">
-            <img src="soulfulCuisine.gif" width="100%"  alt="Rigley 2"/>
+            
+       ![alsoulfulCuisine gif](https://github.com/r-n-wata/r-n-wata/blob/main/soulfulCuisine.gif?raw=true)
 
         </a>
         <br />

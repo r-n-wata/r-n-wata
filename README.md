@@ -30,25 +30,25 @@ Here are some ideas to get you started:
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Rick & morty</h3>
+      <h3 align="center">Matching Game</h3>
         <br />
-        <a target="_blank" href="https://mortyndrick.netlify.app/">
-            <img src="/rickNmorty.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://simpsonsandyugioh.netlify.app/">
+            <img src="/matchinggame.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
-   <a href="https://github.com/r-n-wata/Rick-Morty" target="_blank">
+   <a href="https://github.com/r-n-wata/glowing-system" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - My Portfolio, including links to projects</p>
+        <p><strong>React.js</strong> - Simpsons and YuGiOh matching game!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://rwata.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="/images/gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">

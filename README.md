@@ -48,7 +48,7 @@ Here are some ideas to get you started:
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://rwata.netlify.app/">
-            <img src="/images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="/portfolio.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">

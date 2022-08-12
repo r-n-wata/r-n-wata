@@ -77,19 +77,19 @@ Here are some ideas to get you started:
         <p><strong>Javascript, HTML, CSS and jQuery</strong> - </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Manea Bailo</h3>
+      <h3 align="center">Artist Landing Page</h3>
         <br />
-        <a target="_blank" href="https://maneabailo.com/">
-          <img src="/Manea.gif" width="100%" alt="Band landing page"/>
+        <a target="_blank" href="https://jzentella.netlify.app/">
+          <img src="/zentella-gif.gif" width="100%" alt="artist landing page"/>
         </a>
         <br />
         <p align="center">
           
-<a href="https://github.com/r-n-wata/dancing-stars" target="_blank">
+<a href="https://github.com/r-n-wata/zentella" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS, JS</strong> - Lnading page for a band</p>
+        <p><strong>React.js</strong> - Landing page for a artist</p>
     </td>
 
   </tr>

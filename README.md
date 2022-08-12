@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Game</h3>
+     <h3 align="center">Matching Game</h3>
         <br />
         <a target="_blank" href="https://simpsonsandyugioh.netlify.app/">
             <img src="/matchinggame.gif" width="100%" alt="Travel App"/>

@@ -29,11 +29,26 @@ Here are some ideas to get you started:
 <table bordercolor="#66b2b2">
   
   <tr>
+      <td width="50%" valign="top">
+     <h3 align="center">Munchies Recipe Planner</h3>
+        <br />
+        <a target="_blank" href="https://munchies-production.up.railway.app/">
+            <img src="/munchies gif.gif" width="100%" alt="recipes app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+   <a href="https://github.com/r-n-wata/munchies" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>MERN MongoDB, Express, React.js, Node.js</strong> - Login or register to add your favourite recipes and plan your meals ahead using a calendar.</p>
+    </td>
     <td width="50%" valign="top">
      <h3 align="center">Matching Game</h3>
         <br />
         <a target="_blank" href="https://simpsonsandyugioh.netlify.app/">
-            <img src="/matchinggame.gif" width="100%" alt="Travel App"/>
+            <img src="/matchinggame.gif" width="100%" alt="maching game"/>
         </a>
         <br />
         <p align="center">
@@ -48,7 +63,7 @@ Here are some ideas to get you started:
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://rwata.netlify.app/">
-            <img src="/portfolio2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="/portfolio2.gif" width="100%"  alt="portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -66,7 +81,7 @@ Here are some ideas to get you started:
       <h3 align="center">SoulCuisine</h3>
       <br />
         <a target="_blank" href="https://soulfulcuisine.netlify.app/">
-          <img src="/soulfulCuisine.gif" width="100%" alt="Portfolio"/>
+          <img src="/soulfulCuisine.gif" width="100%" alt="restaurant landing page"/>
         </a>
       <br />
         <p align="center">

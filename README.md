@@ -59,8 +59,8 @@ Here are some ideas to get you started:
       </p>
         <p><strong>React.js</strong> - Simpsons and YuGiOh matching game!</p>
     </td>
- </tr>
- <tr>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
@@ -76,8 +76,6 @@ Here are some ideas to get you started:
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - My Portfolio, including links to projects</p>
     </td>
-  
-  
     <td width="50%" valign="top">
       <h3 align="center">SoulCuisine</h3>
       <br />

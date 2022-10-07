@@ -95,8 +95,8 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h3 align="center">Artist Landing Page</h3>
         <br />
-        <a target="_blank" href="https://jzentella.netlify.app/">
-          <img src="/zentella-gif.gif" width="100%" alt="artist landing page"/>
+        <a target="_blank" href="https://zentella.art">
+          <img src="/zentella.gif" width="100%" alt="artist landing page"/>
         </a>
         <br />
         <p align="center">
